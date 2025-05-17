@@ -4231,6 +4231,9 @@ img.u-pull-left {
         top   : calc(var(--vspace-0_25) * -1);
         right : calc(6vw + var(--gutter));
     }
+    .about-expertise {
+    padding-top : 0;
+}
 }
 
 @media screen and (max-width: 400px) {
